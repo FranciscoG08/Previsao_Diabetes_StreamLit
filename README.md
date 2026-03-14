@@ -113,7 +113,7 @@ Após otimização dos hiperparâmetros, o modelo atingiu:
 **Acurácia no conjunto de teste**
 
 ```text
-0.84
+0.80
 ```
 
 Relatório de classificação:
