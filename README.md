@@ -258,7 +258,7 @@ pip install -r requirements.txt
 6. Executar aplicação Streamlit
 
 ```
-streamlit run app.py
+streamlit run streamlit_modelo_diabetes.py
 ```
 
 ---
